@@ -1,0 +1,130 @@
+/* Katie Harvey April 16th, 2022*/
+.homebg {
+    background-color:#addeda ;
+}
+.namecolor{
+    color:#98eae9;
+}
+.headingcolor{
+    color:#19b6b3}
+
+.topborder{ color: #918176}
+
+.notyellow {background-color:#89aba8}
+
+.visitus {font-size: 15px;}
+
+.abtmefont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif 35px;color:#fff;
+}
+.yass
+{background-color:#918176;}
+
+.headertext {
+    color:rgb(30, 146, 146) 30px; 
+    text-align: center;
+}
+
+.bold{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold !;
+    font-size: xx-large;
+}
+
+a {
+    color:#f7daa3; 
+}
+
+.bodyfont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-style: normal ;
+    
+}
+
+.bgBody {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bgGreenery.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .heading {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1;
+    display: block;
+  font-size: 2rem;
+  font-weight: 800;
+  }
+  .bottomtitle {
+    font-size: 3rem;
+    font-weight: 100;
+    line-height: 4rem;
+  }
+
+  .feet {
+      background-color: rgba(47, 23, 15, 0.65);
+      font-family: 'Times New Roman', Times, serif;
+
+  }
+  .contact{
+      text-align: center; font-size: 1px; color:#ffffff;
+  }
+
+  .face {
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    line-height: 1;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif}
+.bottomargin {
+    margin-bottom: 1rem
+}
+
+.center{
+    text-align: center;
+}
+.bodyone{
+    left: 100px;
+    right: 100px;
+    top: 350px;
+    height:800px;
+}
+.bodytwo{
+    left: 100px;
+    right: 100px;
+    top: 1804px;
+    height:800px;
+}
+.bodythree{
+    left: 100px;
+    right: 100px;
+    top: 3250px;
+    height:800px;
+}
+.bodyfour{
+    left: 100px;
+    right: 100px;
+    top: 4700px;
+    height:800px;
+}
+
+.common {
+    border: solid 2px rgb(218,214,214);
+    position:absolute;
+    background-color: #F7eed0;
+}
+.feets{
+    text-align: center;
+    background-color: rgba(47, 23, 15, 0.65);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2.5 rem;    
+    background:rgba(47,23,15,0.65);
+     }
+
+
